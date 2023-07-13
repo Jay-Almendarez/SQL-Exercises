@@ -1,2 +1,2 @@
 # SQL-Exercises
-A repository for all SQL Exercises
+All exercises have been added into one folder.
